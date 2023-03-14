@@ -8,6 +8,13 @@
 
 ... Content
 
+## Azure Service Availability
+
+... Content
+| Resource Category | Service Name | Verified |
+| :--:              | :--:         | :--:     |
+| Compute | Virtual Machines | Y |
+
 ## Frequently Asked Questions
 
 ... Content
