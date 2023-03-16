@@ -11,7 +11,7 @@
 ## Azure Service Availability
 
 ... Content
-| Resource Category | Service Name | Verified |
+| Resource Category | Service Name | Recommendations |
 | :--:              | :--:         | :--:     |
 | Compute | Virtual Machines | Y |
 

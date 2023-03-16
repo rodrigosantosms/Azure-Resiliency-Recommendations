@@ -19,6 +19,13 @@ categories:
 
 The presented recommendations in this guidance include Virtual Machines, Disks, Network Interfaces, and associated Virtual Machine settings.
 
+## Summary of Recommendations and Microsoft Verification/Validation
+
+... Content
+| Resource Category | Service Name | Recommendation | Verified by Microsoft |
+| :--:              | :--:         | :--     | :--:     |
+| Compute | Virtual Machines | VM-1 - Avoid running a production workload on a single VM | Y |
+
 ### VM-1 - Avoid running a production workload on a single VM
 
 **Importance:** P0
